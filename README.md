@@ -83,15 +83,15 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/Itxxwasi/WASI-MD-V2 Itxxwasi
-cd Itxxwasi
+git clone https://github.com/xoulxy/WASI-MD-V2 Itxxwasi
+cd Itxxoull
 yarn install
 ```
 ```
 echo "SESSION_ID : ENTER YOUR SESSION ID HERE" > config.env
 ```
 ```
-pm2 start . --name Itxxwasi --attach --time
+pm2 start . --name Itxxoull --attach --time
 ```
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
