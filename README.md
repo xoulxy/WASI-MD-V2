@@ -83,7 +83,7 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/xoulxy/WASI-MD-V2 Itxxwasi
+git clone https://github.com/xoulxy/WASI-MD-V2 Itxxoull
 cd Itxxoull
 yarn install
 ```
