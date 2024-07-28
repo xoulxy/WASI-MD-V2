@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
-const number = '923135673658'
-var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
+var surl = 'https://www.instagram.com/xoulxy' // Source URL
+const number = '919633605648'
+var name = '𝑺 𝜟 𝜝 𝜟 𝑅 𝛪 /// 🌩️'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
+var image = 'https://i.imgur.com/CoAcgTb.jpeg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : 𝐖𝐀𝐒𝐈 
-│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
+│       「 𝑺 𝜟 𝜝 𝜟 𝑅 𝛪 /// 🌩️  」
+│ Name      : Sᴀʙᴀʀɪ
+│ Place       : Kᴏʟʟᴀᴍ
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
+│ Age          : 16
 │ education : 𝐁𝐒 𝐒𝐄 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/923135673658
-│ Youtube   : youtube.com/@wasitech1
-│ GitHub    : https://github.com/Itxxwasi 
+│ Phone     : wa.me/919633605648
+│ Youtube   : youtube.com/@xoul_ser
+│ GitHub    : https://github.com/xoulxy
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
