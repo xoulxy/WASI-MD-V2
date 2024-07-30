@@ -78,7 +78,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  AUTOREACTION: process.env.AUTOREACTION || process.env.AUTOREACTION || "false",
+  AUTOREACTION: process.env.autoreaction|| process.env.autoreaction || "false",
   LANG: (process.env.THEME || "WASI").toUpperCase(),
 };
 global.rank = "updated";
