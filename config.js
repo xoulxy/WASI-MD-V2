@@ -49,7 +49,7 @@ global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
-global.auto_reaction = process.env.AUTO_REACTION || "false";
+global.autoreaction = process.env.autoreaction || "false";
 
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://pair-qr-wasi-md.onrender.com";
@@ -78,7 +78,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  AUTOREACTION: process.env.autoreaction|| process.env.autoreaction || "false",
+  AUTOREACTION: process.env.AUTOREACTION || process.env.AUTOREACTION || "false",
   LANG: (process.env.THEME || "WASI").toUpperCase(),
 };
 global.rank = "updated";
